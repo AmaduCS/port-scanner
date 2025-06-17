@@ -12,3 +12,5 @@ This is a basic Python tool that scans a range of TCP ports on a given IP or dom
 ```bash
 python3 scanner.py
 ```
+## Screenshot
+![Scan Output](./screeshots/demo.png)
