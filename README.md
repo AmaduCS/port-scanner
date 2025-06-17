@@ -9,5 +9,6 @@ This is a basic Python tool that scans a range of TCP ports on a given IP or dom
 
 ## How to Use it
 
-'''bash'''
+```bash
 python3 scanner.py
+```
