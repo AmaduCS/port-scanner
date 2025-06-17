@@ -10,7 +10,7 @@ This is a basic Python tool that scans a range of TCP ports on a given IP or dom
 ## How to Use it
 
 ```bash
-python3 scanner.py -t [ip or domain] -s [starting port] -e [ending port]
+python3 port-scanner.py -t [ip or domain] -s [starting port] -e [ending port]
 ```
 ## Screenshot
 ![Scan Output](./screenshots/demo-v2.png)
